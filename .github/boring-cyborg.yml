@@ -1,0 +1,2 @@
+insertIssueLinkInPrDescription:
+  descriptionIssuePlaceholderRegexp: "^Issue link: (.*)$"
